@@ -1,0 +1,25 @@
+{
+  "name": "db-auth",
+  "version": "0.0.1",
+  "description": "Simple authentication",
+  "license": "MIT",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webbestmaster/db-auth.git"
+  },
+
+  "scripts": {
+
+  },
+
+  "dependencies": {
+
+  },
+
+  "devDependencies": {
+
+  }
+
+}
